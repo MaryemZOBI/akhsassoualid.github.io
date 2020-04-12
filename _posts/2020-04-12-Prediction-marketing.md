@@ -1,5 +1,5 @@
 ---
-title: "What makes a marketing strategy efficient, a Machine Learning Approach"
+title: "What makes a marketing strategy efficient? a Machine Learning Approach"
 excerpt: "Machine Learning, Marketing"
 mathjax: "true"
 ---
