@@ -375,47 +375,47 @@ for var in df.columns[categorical_mask]:
 ```
 
 
-![png](img/blog/PredictionDeposit/output_13_0.png)
+![png](https://akhsassoualid.github.io/img/blog/PredictionDeposit/output_13_0.png)
 
 
 
-![png](img/blog/PredictionDeposit/output_13_1.png)
+![png](https://akhsassoualid.github.io/img/blog/PredictionDeposit/output_13_1.png)
 
 
 
-![png](img/blog/PredictionDeposit/output_13_2.png)
+![png](https://akhsassoualid.github.io/img/blog/PredictionDeposit/output_13_2.png)
 
 
 
-![png](img/blog/PredictionDeposit/output_13_3.png)
+![png](https://akhsassoualid.github.io/img/blog/PredictionDeposit/output_13_3.png)
 
 
 
-![png](img/blog/PredictionDeposit/output_13_4.png)
+![png](https://akhsassoualid.github.io/img/blog/PredictionDeposit/output_13_4.png)
 
 
 
-![png](img/blog/PredictionDeposit/output_13_5.png)
+![png](https://akhsassoualid.github.io/img/blog/PredictionDeposit/output_13_5.png)
 
 
 
-![png](img/blog/PredictionDeposit/output_13_6.png)
+![png](https://akhsassoualid.github.io/img/blog/PredictionDeposit/output_13_6.png)
 
 
 
-![png](img/blog/PredictionDeposit/output_13_7.png)
+![png](https://akhsassoualid.github.io/img/blog/PredictionDeposit/output_13_7.png)
 
 
 
-![png](img/blog/PredictionDeposit/output_13_8.png)
+![png](https://akhsassoualid.github.io/img/blog/PredictionDeposit/output_13_8.png)
 
 
 
-![png](img/blog/PredictionDeposit/output_13_9.png)
+![png](https://akhsassoualid.github.io/img/blog/PredictionDeposit/output_13_9.png)
 
 
 
-![png](img/blog/PredictionDeposit/output_13_10.png)
+![png](https://akhsassoualid.github.io/img/blog/PredictionDeposit/output_13_10.png)
 
 
 *   Conclusions:
@@ -442,7 +442,7 @@ plt.show()
 ```
 
 
-![png](img/blog/PredictionDeposit/output_15_0.png)
+![png](https://akhsassoualid.github.io/img/blog/PredictionDeposit/output_15_0.png)
 
 
 *   Conclusions:
@@ -586,7 +586,7 @@ dt_pred = grid_model(DecisionTreeClassifier(), dt_param, 10, X_train, X_test, y_
     
 
 
-![png](img/blog/PredictionDeposit/output_29_1.png)
+![png](https://akhsassoualid.github.io/img/blog/PredictionDeposit/output_29_1.png)
 
 
     The BEST PARAMETERS are:{'class_weight': 'balanced', 'max_depth': 10, 'max_leaf_nodes': 70, 'min_samples_leaf': 40, 'min_samples_split': 2}
@@ -600,7 +600,7 @@ dt_pred = grid_model(DecisionTreeClassifier(), dt_param, 10, X_train, X_test, y_
     
 
 
-![png](img/blog/PredictionDeposit/output_29_3.png)
+![png](https://akhsassoualid.github.io/img/blog/PredictionDeposit/output_29_3.png)
 
 
 ***5.2.2. Fit a Bagged classifier with a base learner 'Decision Tree'***
@@ -639,7 +639,7 @@ plt.show()
     
 
 
-![png](img/blog/PredictionDeposit/output_31_1.png)
+![png](https://akhsassoualid.github.io/img/blog/PredictionDeposit/output_31_1.png)
 
 
 *   Conclusions:
@@ -677,7 +677,7 @@ rf_pred = grid_model(estim=RandomForestClassifier(), param=rf_param, CV=10, X_tr
     
 
 
-![png](img/blog/PredictionDeposit/output_34_1.png)
+![png](https://akhsassoualid.github.io/img/blog/PredictionDeposit/output_34_1.png)
 
 
 *   Conclusions:
@@ -705,7 +705,7 @@ lr_pred = grid_model(LogisticRegression(max_iter=700), lr_param, 10, Xs_train, X
     
 
 
-![png](img/blog/PredictionDeposit/output_37_1.png)
+![png](https://akhsassoualid.github.io/img/blog/PredictionDeposit/output_37_1.png)
 
 
 *   Conclusion:
@@ -722,15 +722,15 @@ feat_importance(model_name='Logistic Regression', estimator=models[-1], variable
 ```
 
 
-![png](img/blog/PredictionDeposit/output_40_0.png)
+![png](https://akhsassoualid.github.io/img/blog/PredictionDeposit/output_40_0.png)
 
 
 
-![png](img/blog/PredictionDeposit/output_40_1.png)
+![png](https://akhsassoualid.github.io/img/blog/PredictionDeposit/output_40_1.png)
 
 
 
-![png](img/blog/PredictionDeposit/output_40_2.png)
+![png](https://akhsassoualid.github.io/img/blog/PredictionDeposit/output_40_2.png)
 
 
 *   Conclusion:
