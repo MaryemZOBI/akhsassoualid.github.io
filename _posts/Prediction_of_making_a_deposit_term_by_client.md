@@ -1,3 +1,8 @@
+---
+title: "What makes a marketing strategy efficient, a Machine Learning Approach"
+excerpt: "Machine Learning, Marketing"
+mathjax: "true"
+---
 **Introduction**
 
 **1.Import important libraries**
