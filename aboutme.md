@@ -1,13 +1,15 @@
 ---
 layout: page
 title: ABOUT ME
-subtitle: Why you'd want to go on a date with me
+subtitle: Introduce myself
 ---
 
 My name is Oualid AKHSASS and i'm a Data Scientist':
 
-What else do you need?
+Do you need to know more about me? Please read my bio.
 
 ### my history
+Hello, First of all, I would like to thank you for visiting my website.
+I'm Oualid AKHSASS a young Data Scientist working currently for the Moroccan government at the Ministry of Economics and Finances. 
+I was graduated from the National Institute of Statistics and Applied Economy in 2016, after finishing my Final Project of Graduation realized at Attijariwafa Bank."
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
