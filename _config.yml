@@ -20,10 +20,7 @@ description: Statistician Engineer and Data Scientist
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "Hello, First of all, I would like to thank you for visiting my website.
-I'm Oualid AKHSASS a young Data Scientist working currently for the Moroccan government at the Ministry of Economics and Finances. 
-I was graduated from the National Institute of Statistics and Applied Economy in 2016, after finishing my Final Project of Graduation realized at Attijariwafa Bank."
-
+  About Me: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
