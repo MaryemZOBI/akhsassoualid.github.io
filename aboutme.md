@@ -1,12 +1,12 @@
 ---
 layout: page
-title: ABOUT ME
+title: About Me
 subtitle: Introducing myself
 ---
 
-My name is Oualid AKHSASS and I'm a Data Scientist, and welcome to my Website:
+My name is Oualid AKHSASS and I'm a Data Scientist, You're welcome to my Website:
 
-Do you need to know more about me? Please read my bio.
+Do you need to know more about me? Please read my brief bio.
 
 ### A brief introduction of my Academic and Professional career
 Hello, First of all, I would like to thank you for visiting my website.
