@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-subtitle: Introducing myself
+subtitle: 
 ---
 
 My name is Oualid AKHSASS and I'm a Data Scientist, You're welcome to my Website:
